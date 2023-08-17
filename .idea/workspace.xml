@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64c37cac-8f9b-4f7f-830a-35797a2a6f67" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding-test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backjoon1260.java" beforeDir="false" afterPath="$PROJECT_DIR$/dfsbfs/Baekjoon1260.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFSBFSTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/dfsbfs/Baekjoon2667apt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFSbasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/dfsbfs/Basic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coding-test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/Backjoon1260.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/DFSBFSTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coding-test/DFSbasic.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,30 +49,55 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Backjoon1260">
-    <configuration name="Backjoon1260" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Backjoon1260" />
+  <component name="RunManager" selected="Application.Baekjoon1697subin">
+    <configuration name="Baekjoon1697subin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dfsbfs.Baekjoon1697subin" />
+      <module name="coding-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dfsbfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baekjoon2606" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dfsbfs.Baekjoon2606" />
       <module name="coding-test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DFSBFSTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFSBFSTest" />
+    <configuration name="Baekjoon2667apt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dfsbfs.Baekjoon2667apt" />
       <module name="coding-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dfsbfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DFSbasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFSbasic" />
+    <configuration name="Baekjoon2839" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.Baekjoon2839" />
       <module name="coding-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="LeetCode841" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dfsbfs.LeetCode841" />
       <module name="coding-test" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,10 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Backjoon1260" />
-        <item itemvalue="Application.DFSBFSTest" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DFSbasic" />
+        <item itemvalue="Application.Baekjoon1697subin" />
+        <item itemvalue="Application.Baekjoon2667apt" />
+        <item itemvalue="Application.Baekjoon2839" />
+        <item itemvalue="Application.Baekjoon2606" />
+        <item itemvalue="Application.LeetCode841" />
       </list>
     </recent_temporary>
   </component>

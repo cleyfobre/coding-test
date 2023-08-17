@@ -1,7 +1,9 @@
+package dfsbfs;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class DFSbasic {
+public class Basic {
 
     static ArrayList<Integer>[] graph; // 그래프를 인접 리스트로 표현
     static boolean[] visited; // 노드의 방문 여부를 나타내는 배열

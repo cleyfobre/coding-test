@@ -1,7 +1,9 @@
+package dfsbfs;
+
 import java.util.*;
 
 // 단지 수 찾기
-public class DFSBFSTest {
+public class Baekjoon2667apt {
     static int[] dx = new int[]{-1, 0, 1, 0};
     static int[] dy = new int[]{0, -1, 0, 1};
     static int n;

@@ -1,6 +1,8 @@
+package dfsbfs;
+
 import java.util.*;
 
-public class Backjoon1260 {
+public class Baekjoon1260 {
     static int n, m, v;
     static int[][] a;
     static boolean[] visited;
